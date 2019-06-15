@@ -1,0 +1,23 @@
+{
+  "name": "bull-examples",
+  "version": "0.0.1",
+  "description": "Some examples of Bull library",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pauldeng/bull-examples.git"
+  },
+  "keywords": [],
+  "author": "pauldeng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pauldeng/bull-examples/issues"
+  },
+  "homepage": "https://github.com/pauldeng/bull-examples#readme",
+  "dependencies": {
+    "bull": "^3.10.0"
+  }
+}
