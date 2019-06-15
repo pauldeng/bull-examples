@@ -14,8 +14,6 @@
 
 > Some examples of Bull library
 
-### 🏠 [Homepage](https://github.com/pauldeng/bull-examples#readme)
-
 ## Setup
 
 ```sh
