@@ -16,7 +16,7 @@
 
 ### 🏠 [Homepage](https://github.com/pauldeng/bull-examples#readme)
 
-## Install
+## Setup
 
 ```sh
 # Ubuntu 18.04
