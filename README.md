@@ -21,6 +21,8 @@
 ```sh
 # Ubuntu 18.04
 # Install nvm
+# Install Redis
+sudo apt install redis
 ```
 
 ## Install
