@@ -19,14 +19,19 @@
 ## Install
 
 ```sh
+# Ubuntu 18.04
+# Install nvm
+```
+
+## Install
+
+```sh
+git clone https://github.com/pauldeng/bull-examples.git
+cd bull-examples
 npm install
 ```
 
-## Run tests
-
-```sh
-npm run test
-```
+## Run
 
 ## Author
 
