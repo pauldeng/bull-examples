@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to Node.js Bull Examples 👋</h1>
+<h1 align="center">Welcome to Node.js Bull Examples</h1>
 <p>
   <img src="https://img.shields.io/badge/version-0.0.1-blue.svg?cacheSeconds=2592000" />
   <a href="https://github.com/pauldeng/bull-examples#readme">
