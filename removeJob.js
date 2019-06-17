@@ -6,6 +6,7 @@ async function removeRepeatJobs() {
 //  if (jobs.len > 0) {
 //    console.log("Deleting first job");
     const result = await cronDelay.removeRepeatableByKey(jobs[0].key);
+    console.log(jobs[0].key + " is removed");
     console.log(result);
 //  } else {
 //    console.log("No job found in the queue");
