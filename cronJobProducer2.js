@@ -6,6 +6,7 @@ cronDelay
       everysec: "every5sec"
     },
     {
+      jobId: "producer2",
       delay: 100,
       repeat: {
         cron: "*/5 * * * * *"
