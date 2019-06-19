@@ -31,7 +31,7 @@ cd bull-examples
 npm install
 ```
 
-## Run
+## Try
 ```sh
 # generate 1 simple job
 node simpleProducer.js
@@ -67,14 +67,6 @@ node removeJob.js
 
 * Twitter: [@pauldeng](https://twitter.com/pauldeng)
 * Github: [@pauldeng](https://github.com/pauldeng)
-
-## 🤝 Contributing
-
-Contributions, issues and feature requests are welcome !<br />Feel free to check [issues page](https://github.com/pauldeng/bull-examples/issues).
-
-## Show your support
-
-Give a ⭐️ if this project helped you !
 
 ## 📝 License
 
