@@ -32,6 +32,20 @@ npm install
 ```
 
 ## Run
+```sh
+# generate 1 simple job
+node simpleProducer.js
+
+# in other terminal window
+node simpleConsumer.js
+# you should see {foo:'bar'}
+
+# generate more jobs
+node simpleProducer.js
+node simpleProducer.js
+# you will see they are consumed in simpleConsumer.js terminal
+```
+
 
 ## Author
 
