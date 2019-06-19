@@ -44,6 +44,20 @@ node simpleConsumer.js
 node simpleProducer.js
 node simpleProducer.js
 # you will see they are consumed in simpleConsumer.js terminal
+
+# add a repeated job, 1 message per second
+node cronJobProducer.js
+
+# in other terminal window
+node consumer.js
+# you will see 1 message every second
+
+# you can list all repeated jobs by
+node listJobs.js
+
+# you can delete individual repeated job by
+node removeJob.js
+
 ```
 
 
