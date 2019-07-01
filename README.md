@@ -1,12 +1,5 @@
 <h1 align="center">Welcome to Node.js Bull Examples</h1>
 <p>
-  <img src="https://img.shields.io/badge/version-0.0.1-blue.svg?cacheSeconds=2592000" />
-  <a href="https://github.com/pauldeng/bull-examples#readme">
-    <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" target="_blank" />
-  </a>
-  <a href="https://github.com/pauldeng/bull-examples/graphs/commit-activity">
-    <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" target="_blank" />
-  </a>
   <a href="https://github.com/pauldeng/bull-examples/blob/master/LICENSE">
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" target="_blank" />
   </a>
@@ -46,7 +39,7 @@ node simpleProducer.js
 # you will see they are consumed in simpleConsumer.js terminal
 
 # add a repeated job, 1 message per second
-node cronJobProducer.js
+node cronJobProducer1.js
 
 # in other terminal window
 node consumer.js
